@@ -17,10 +17,10 @@
   <a href="https://twitter.com/mdalvihasanemo1" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/mdalvihasanemo1?logo=twitter&style=for-the-badge" alt="mdalvihasanemo1" /></a>
   <a href="https://linkedin.com/in/alvi-hasan-emon" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvi-hasan-emon" /></a>
   <a href="https://stackoverflow.com/users/24571584" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="24571584" /></a>
-  <a href="https://instagram.com/alvihasanemon" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alvihasanemon" /></a>
+  <a href="https://www.instagram.com/alvihasanemon_official/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alvihasanemon" /></a>
   <a href="https://dribbble.com/mdalvihasanemon" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="mdalvihasanemon" /></a>
   <a href="https://www.behance.net/alvihasanemon" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white" alt="alvihasanemon" /></a>
-  <a href="https://www.youtube.com/c/mdalvihasanemon" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="mdalvihasanemon" /></a>
+  <a href="https://www.youtube.com/@AlviHasanEmon" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="mdalvihasanemon" /></a>
 </p>
 
 ## 📑 My Projects & Blog:
