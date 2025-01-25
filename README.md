@@ -28,7 +28,7 @@
 - I regularly write articles on [UI/UX, Data Analytics, and WordPress Security](https://alvihasanemon.blogspot.com/)
 
 ## 📫 Contact Me:
-- Email: [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com) | [alviemon51@gmail.com](mailto:alviemon51@gmail.com)
+- Email: [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com) | [emonalvi51@gmail.com](mailto:emonalvi51@gmail.com)
 
 ---
 
